@@ -1,4 +1,4 @@
-<h1 align="center"> Omnifactory_RU </h1>
+<h1 align="center"> Русская локализация Omnifactory </h1>
 
 <p align="center">
   Русская локализация questbook для сборки <a href="https://www.curseforge.com/minecraft/modpacks/omnifactory">Omnifactory</a>
